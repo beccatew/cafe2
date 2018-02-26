@@ -1,0 +1,46 @@
+body {
+  background-image: url("cover.jpeg");
+	background-repeat: no-repeat;
+	background-position: center;
+  background-size: cover;
+	/* background-color: #2196f3; */
+}
+
+.nav-wrapper {
+	background-color: #7cb342;
+	border: 5px solid #558b2f;
+	font-family: Jazz LET, fantasy;
+}
+
+.main-header {
+	font-family: Jazz LET, fantasy;
+	text-align: center;
+}
+
+
+.center-card {
+	/* border: 3px solid #fff; */
+	height: 15%;
+	display: flex;
+	justify-content: space-around;
+}
+
+
+.card1 {
+	/* background-image: url("food.jpeg");
+	background-repeat: no-repeat;
+	background-position: center;
+  background-size: cover; */
+	display: flex;
+	justify-content: flex-start;
+}
+
+.card2 {
+	display: flex;
+	justify-content: center;
+}
+
+.card3 {
+	display: flex;
+	justify-content: flex-end;
+}
